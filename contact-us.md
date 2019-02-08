@@ -8,7 +8,7 @@ permalink: /contact/
 <div class="contact1">
 		<div class="container-contact1">
 			<div class="contact1-pic js-tilt" data-tilt>
-				<img src="/contact-form/images/img-01.png" alt="IMG">
+				<img src="{{ site.url | prepend:site.baseurl }}contact-form/images/img-01.png" alt="IMG">
 			</div>
 
 			<form class="contact1-form validate-form">
