@@ -1,0 +1,64 @@
+<!--  F O O T E R  -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <h5>Publication Resources</h5>
+        <ul>
+          <li><a href="{{ site.url }}">Home</a></li>
+          <li><a href="{{ site.url }}/about">About DDHP</a></li>
+          <li><a href="{{ site.url }}/magazines/">Magazines</a></li>
+          <li><a href="{{ site.url }}/books/">Books</a></li>
+          <li><a href="{{ site.url }}/advertising/">Advertising</a></li>
+        </ul>
+      </div>
+      <!-- <div class="col-md-3">
+        <h5>Main Tools</h5>
+        <ul>
+          <li><a href="#">Rank Tracker</a></li>
+          <li><a href="#">Backlink Checker</a></li>
+          <li><a href="#">Keyword Generator</a></li>
+          <li><a href="#">Serp Checker</a></li>
+          <li><a href="#">Site Audit</a></li>
+        </ul>
+      </div> -->
+      <div class="col-md-4">
+        <h5>Other Resources</h5>
+        <ul>
+          <li><a href="https://www.dongardner.com/">Donald A Gardner Architects</a></li>
+          <li><a href="https://www.saterdesign.com/">Sater Design House Plans</a></li>
+          <li><a href="http://www.designerdreamhomes.net/">Designer Dream Homes</a></li>
+          <li><a href="https://houseplans.designsdirect.com/">Designs Direct House Plans</a></li>
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <h5>{{ site.title }}</h5>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur scelerisque, tortor nec mattis feugiat, velit purus euismod odio, quis vulputate velit urna.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur scelerisque, tortor nec mattis feugiat, velit purus euismod odio, quis vulputate velit urna.</p>
+        <!-- <p><a href="mailto:sales@theseocompany.com" class="external-links">sales@theseocompany.com</a></p> -->
+      </div>
+    </div>
+    <div class="divider"></div>
+    <div class="row">
+      <div class="col-md-6 col-xs-12">
+          <a href="#"><i class="icon ion-logo-facebook"></i></a>
+          <a href="#"><i class="icon ion-logo-instagram"></i></a>
+          <a href="#"><i class="icon ion-logo-twitter"></i></a>
+          <a href="#"><i class="icon ion-logo-youtube"></i></a>
+        </div>
+        <div class="col-md-6 col-xs-12">
+          <small>2019 &copy; {{ site.title }} All rights reserved. Built by <a href="https://danaleegibson.com" title="Website & Technology Guru!" target="blank" class="external-links">Dana Lee Gibson Technology</a></small>
+        </div>
+    </div>
+  </div>
+</footer>
+<!--  E N D  F O O T E R  -->
+{% if page.duty == "contact" %}
+    {%- include contact-footer-stuff.html -%}
+  	{% endif %}
+
+  <!-- External JavaScripts -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
