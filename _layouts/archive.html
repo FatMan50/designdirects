@@ -1,0 +1,40 @@
+---
+layout: default
+title: Archive
+---
+
+<!-- Begin List Posts
+================================================== -->
+<section>
+  <div class="container">
+
+
+    <h1>Archive of posts</h1>
+
+
+
+  {% for post in site.posts %}
+  <div>
+  	<div>
+
+  		<sub>{{ post.date | date: '%B %d, %Y' }}</sub>
+  		<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+      {% if post.image %}
+            <a href="{{ post.url }}"><img src="{{ site.url }}/images/blog-images/{{ post.image }}" width="200px" title="{{ post.title }}"></a>
+            {% endif %}
+        <div>
+  	  	{{ post.content | strip_html | truncatewords:75 }}
+        </div>
+
+  		<ul class="inline-list" style="margin-top:1em;">
+  			{% for category in post.categories %}
+  			<li><h6><a href="/#!/{{ category }}"><i class="fa fa-tag"></i> {{ category }}</a></h6></li>
+  			{% endfor %}
+  		</ul>
+
+  	</div>
+  </div>
+  {% endfor %}
+</div>
+
+</section>
