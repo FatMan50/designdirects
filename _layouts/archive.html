@@ -18,7 +18,7 @@ title: Archive
   	<div>
 
   		<sub>{{ post.date | date: '%B %d, %Y' }}</sub>
-  		<a href="{{ page.url }}"><h3>{{ post.title }}</h3></a>
+  		<a href="{{ site.url | prepend:site.baseurl }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
       {% if post.image %}
             <a href="{{ site.url }}/{{ post.url }}"><img src="{{ site.url }}/images/blog-images/{{ post.image }}" width="200px" title="{{ post.title }}"></a>
             {% endif %}
