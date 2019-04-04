@@ -24,6 +24,7 @@ url: "https://fatman50.github.io/designdirects" # the base hostname & protocol f
 twitter_username: jekyllrb
 github_username:  jekyll
 
+
 # Build settings
 markdown: kramdown
 theme: minima

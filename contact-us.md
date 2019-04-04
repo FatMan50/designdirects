@@ -2,7 +2,6 @@
 layout: page
 title: Contact Designs Direct Publishing
 duty: contact
-permalink: /contact/
 ---
 
 <div class="contact1">
