@@ -792,6 +792,129 @@ text-align: center;
 		grid-column: col 3 / span 2 ;
         grid-row: row ;
 	}
+}
+
+/* ---------- blog layout ------------*/
+
+.pagination a, .pagination span {
+    padding: 7px 18px;
+    border: 1px solid #eee;
+    margin-left: -2px;
+    margin-right: -2px;
+    background-color: #ffffff;
+    display: inline-block;
+  }
+
+.pagination a {
+    &:hover {
+        background-color: #f1f1f1;
+        color: #333;
+    }
+ }
+
+.pagination {
+    text-align: center;
+ }
+
+ .PageNavigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
+
+.blog-item-image {
+        grid-area: blog-item-image;
+    }
+
+.blog-image-responsive {
+  width: 100%;
+  height: auto;
+}
+
+.blog-item-text {
+        grid-area: blog-item-text;
+    }
+
+.blog-item-text p {font-size: 17px;
+    font-weight: 200;
+    letter-spacing: .01em;
+}
+
+.blog-item-text a {
+	font-weight: 400;
+}
 
 
+.blog-wrapper {
+   display: grid;
+  grid-template-columns: 1fr;
+    grid-gap: 20px;
+    grid-template-areas:
+     "blog-item-image"
+      "blog-item-text"
+}
+
+@media only screen and (min-width: 860px) {
+
+  .blog-wrapper {
+
+  grid-template-columns: 50% auto;
+
+    grid-template-areas:
+     "blog-item-image blog-item-text"
+  }
+}
+
+.archive-image {
+        grid-area: archive-image;
+    }
+
+.archive-image-responsive{
+  width: 100%;
+  height: auto;
+}
+
+.archive-content {
+        grid-area: archive-content;
+    }
+.archive-content h3 {
+	margin-bottom: 0px;
+	padding-top: 10px;
+}
+
+.archive-sub {
+	bottom: .15em;
+}
+
+.archive-wrapper {
+	padding-top: 25px;
+   display: grid;
+  grid-template-columns: 1fr;
+    grid-gap: 20px;
+    grid-template-areas:
+     "archive-image"
+      "archive-content"
+}
+
+@media only screen and (min-width: 860px) {
+
+  .archive-wrapper {
+
+  grid-template-columns: 33% auto;
+
+    grid-template-areas:
+     "archive-image archive-content archive-content"
+  }
 }
