@@ -82,6 +82,6 @@ layout: default
 				"height":"35"
 			}
 		},
-		"articleBody": "{{ content }}"
+		"articleBody": "{{ content | strip_html | escape   }}"
 	}
 </script>
