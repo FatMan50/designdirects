@@ -4,6 +4,19 @@ title: Contact Designs Direct Publishing
 duty: contact
 ---
 
+Designs Direct Publishing, LLC.<br>
+Editorial and Corporate Offices:<br>
+86 Villa Road<br>
+Greenville, SC 29615<br>
+**(864) 288-7580**
+
+
+### Advertising Sales:
+(864) 288-7580 x306
+
+
+
+
 <div class="contact1">
 		<div class="container-contact1">
 			<div class="contact1-pic js-tilt" data-tilt>

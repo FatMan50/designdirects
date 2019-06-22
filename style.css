@@ -755,7 +755,7 @@ text-align: center;
 	text-align: center;
 }
 .marketing-image-B {
-	
+
 	text-align: center;
 }
 
@@ -918,3 +918,18 @@ text-align: center;
      "archive-image archive-content archive-content"
   }
 }
+
+/* ----------  Home Page Advert Logo ------------*/
+.adlogo-wrapper {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	grid-gap: 15px;
+}
+
+.advert-logo  {
+
+	text-align: center;
+	padding: 30px;
+}
+
+#ad-logo {background-color: #f6f8f9;}
