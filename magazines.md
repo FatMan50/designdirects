@@ -25,6 +25,6 @@ Direct from the nation’s most prominent residential designers and architects c
   </div>
   <div class="blog-item-text">
   <h4>Designer Dream Home Presents</h4>
-  <p>Designer Dream Homes™ Presents is a beautiful home plans magazine filled with themed plan collections from the nation’s foremost architects and residential home designers! Ranging in style from Craftsman charmers to European manors to Coastal cottages, this beautiful, full-color magazine promises the best in interior and exterior design. A gorgeous home tour section takes the reader into a number of award-winning homes, exhibiting stunning yet comfortable kitchens, living rooms, media rooms, master suites and outdoor living areas.able kitchens, living rooms, media rooms, master suites and outdoor living areas.</p>
+  <p>Designer Dream Homes™ Presents is a beautiful home plans magazine filled with themed plan collections from the nation’s foremost architects and residential home designers! Ranging in style from Craftsman charmers to European manors to Coastal cottages, this beautiful, full-color magazine promises the best in interior and exterior design. A gorgeous home tour section takes the reader into a number of award-winning homes, exhibiting stunning yet comfortable kitchens, living rooms, media rooms, master suites and outdoor living areas, kitchens, living rooms, media rooms, master suites and outdoor living areas.</p>
   </div>
 </div>
