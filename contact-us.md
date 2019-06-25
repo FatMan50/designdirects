@@ -23,12 +23,15 @@ Greenville, SC 29615<br>
 				<img src="{{ site.url }}/contact-form/images/img-01.png" alt="IMG">
 			</div>
 
-			<form class="contact1-form validate-form">
+			<form class="contact1-form validate-form" data-netlify="true" name="ddhp-contact" netlify-honeypot="bot-field" method="POST" action="{{ site.baseurl }}/thank-you.html">
 				<span class="contact1-form-title">
 					Get in touch
 				</span>
 
 				<div class="wrap-input1 validate-input" data-validate = "Name is required">
+				<p class="lip-hidden">
+	<label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+</p>
 					<input class="input1" type="text" name="name" placeholder="Name">
 					<span class="shadow-input1"></span>
 				</div>
