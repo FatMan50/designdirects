@@ -2,6 +2,8 @@
 layout: post
 title:  "THOR Kitchen – Outdoor Kitchen"
 date:   2019-04-19
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 image: Thor_Modular-Outdoor-Kitchen-Suite_lifestyle.jpg
 ---
 

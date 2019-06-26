@@ -2,6 +2,8 @@
 layout: post
 title:  "European Luxe – Cultured Stone"
 date:   2019-05-05
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 image: CulturedStone-Carbon-Cast-Fit.jpg
 ---
 

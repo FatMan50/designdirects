@@ -2,6 +2,8 @@
 layout: post
 title:  "Reinvented Farmhouse – Sink"
 date:   2019-05-05
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 image: Blanco-APRON-sink.jpg
 ---
 

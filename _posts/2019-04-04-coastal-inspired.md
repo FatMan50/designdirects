@@ -2,6 +2,8 @@
 layout: post
 title:  "Eldorado Stone - Whitecap"
 date:   2019-04-04
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 image: Eldorado-Stone-Whitecap.jpg
 ---
 

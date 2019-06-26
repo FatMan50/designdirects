@@ -2,6 +2,8 @@
 layout: post
 title:  "Premium Versa-Lam Beam"
 date:   2019-04-04
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 image: Boise-Cascade-Versa-Lam.jpg
 categories: materials
 ---

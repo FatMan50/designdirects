@@ -2,6 +2,8 @@
 layout: post
 title:  "Barn Door Lock – INOX"
 date:   2019-05-07
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 image: INOX-Surface-Mount-Barn-Door-Lock-Install.jpg
 ---
 

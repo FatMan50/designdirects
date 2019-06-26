@@ -2,6 +2,8 @@
 layout: post
 title:  "Mastic siding from Ply Gem"
 date:   2019-04-19
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 image: Ply-Gem-Mastic-Siding.jpg
 ---
 

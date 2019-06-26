@@ -2,6 +2,8 @@
 layout: post
 title:  "Water Monitoring – By SteamLabs"
 date:   2019-04-19
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 image: Stream-lab-2019.jpg
 ---
 

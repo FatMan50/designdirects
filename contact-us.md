@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Contact Designs Direct Publishing
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 duty: contact
 ---
 
@@ -62,3 +64,37 @@ Greenville, SC 29615<br>
 			</form>
 		</div>
 	</div>
+
+	<script type="application/ld+json">
+ { "@context": "https://schema.org",
+ "@type": "Organization",
+ "name": "Designs Direct Publishing",
+ "legalName" : "Designs Direct Publishing, LLC",
+ "url": "https://www.designsdirectpublishing.com",
+ "logo": "https://www.designsdirectpublishing.com/images/DDP-logo.png",
+ "foundingDate": "2005",
+ "founders": [
+ {
+ "@type": "Person",
+ "name": "Dan Sater II"
+ },
+ {
+ "@type": "Person",
+ "name": "Donald A Gardner"
+ } ],
+ "address": {
+ "@type": "PostalAddress",
+ "streetAddress": "86 Villa Road",
+ "addressLocality": "Greenville",
+ "addressRegion": "SC",
+ "postalCode": "29615",
+ "addressCountry": "USA"
+ },
+ "contactPoint": {
+ "@type": "ContactPoint",
+ "contactType": "customer support",
+ "telephone": "[+864-288-7580]",
+ "email": "cttripp@dongardner.com"
+ }
+ }
+</script>

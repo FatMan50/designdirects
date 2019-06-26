@@ -2,6 +2,8 @@
 layout: post
 title:  "Plumbing Solution – SharkBite"
 date:   2019-05-09
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 image: SharkBite-EvoPEX-system-4.jpg
 ---
 

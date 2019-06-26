@@ -2,6 +2,8 @@
 layout: post
 title:  "Smart Oven – Kitchen Aid"
 date:   2019-05-08
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 image: KitchenAid-Smart-Oven-with-Powered-Attachments.jpg
 ---
 

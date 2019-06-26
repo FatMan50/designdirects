@@ -2,6 +2,8 @@
 layout: post
 title:  "The Future of Laundry – Laundry Jet"
 date:   2019-04-19
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 image: Laundry-Jet-Lifestyle.jpg
 ---
 

@@ -2,6 +2,8 @@
 layout: post
 title:  "High Tech Pet – Automatic Pet Door"
 date:   2019-04-19
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 image: High-Tech-Pet-Power-Pet.jpg
 ---
 
