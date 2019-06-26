@@ -29,7 +29,7 @@ Greenville, SC 29615<br>
 				</span>
 
 				<div class="wrap-input1 validate-input" data-validate = "Name is required">
-				<p class="lip-hidden">
+				<p style="display: none;">
 	<label>Don’t fill this out if you're human: <input name="bot-field" /></label>
 </p>
 					<input class="input1" type="text" name="name" placeholder="Name">
@@ -52,7 +52,6 @@ Greenville, SC 29615<br>
 				</div>
 
 				<div class="container-contact1-form-btn">
-				<input type="hidden" name="_to" value="dana@swarmcell.com">
 					<button class="contact1-form-btn" type="submit" value="Send Message">
 						<span>
 							Send Email
