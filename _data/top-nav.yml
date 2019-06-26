@@ -2,13 +2,13 @@
   url: blog/index.html
 
 - title: Publications
-  url: {{ site.url }}/#marketing
+  url: index/#marketing
 
 - title: About Us
   url: about/
 
 - title: Advertising
-  url: {{ site.url }}/#pricing
+  url: index/#pricing
 
 - title: Contact Us
   url: contact-us.html
