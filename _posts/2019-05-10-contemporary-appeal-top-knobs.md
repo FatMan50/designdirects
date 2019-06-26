@@ -2,6 +2,8 @@
 layout: post
 title:  "Contemporary Appeal – Top Knobs"
 date:   2019-05-10
+author: Dana Lee Gibson
+publisher: Designs Direct Publishing LLC
 image: Top-Knobs-Riverside.jpg
 ---
 
