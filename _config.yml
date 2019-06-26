@@ -18,7 +18,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Designs Direct Publishing is the primer publisher of the nation’s top residential designers and architects. We produce top quality books and magazines.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fatman50.github.io/designdirects" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
