@@ -161,6 +161,29 @@ section {
    3. Buttons
 ===============================================*/
 
+.spec-button {
+	font-size: 14px;
+	font-weight: 400;
+	border-radius: 3px!important;
+	box-shadow: 0 2px 3px 0 rgba(0,0,0,.05), 0 1px 2px 0 rgba(0,0,0,.08);
+	padding: 10px 25px;
+	letter-spacing: .1em;
+	margin-top: 25px;
+	display: inline-block;
+	background-color: #0095f7;
+	color: #ffffff;
+	letter-spacing: .1em;
+	margin-top: 25px;
+	text-align: center;
+}
+
+.spec-button:hover {
+	text-decoration: none;
+	background-color: #0191f0;
+	color: #ffffff;
+}
+
+
 .btn {
 	font-size: 14px;
 	font-weight: 400;
@@ -922,14 +945,14 @@ text-align: center;
 /* ----------  Home Page Advert Logo ------------*/
 .adlogo-wrapper {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
 	grid-gap: 15px;
 }
 
 .advert-logo  {
 
 	text-align: center;
-	padding: 30px;
+	padding: 20px;
 }
 
 #ad-logo {background-color: #f6f8f9;}

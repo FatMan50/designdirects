@@ -52,83 +52,7 @@ title: Home
   </section>
   <!-- E N D  M A R K E T I N G -->
 
-<!--
-<section>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-5">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
 
-  {{ content }}
-
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-  {%- endif -%} -->
-
-</div>
-</div>
-</div>
-</section>
-
-<!-- T E S T I M O N I A L S -->
-<!-- <section id="testimonials">
-  <div class="container">
-    <div class="title-block">
-      <h2>The Best Companies Recommend Our Publications</h2>
-      <p>We are very proud of our long history working with some of the best manufatures in their respective fields.</p>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        <div class="testimonial-box">
-          <div class="row personal-info">
-            <div class="col-md-2 col-xs-2">
-              <div class="profile-picture review-one"></div>
-            </div>
-            <div class="col-md-10 col-xs-10">
-              <h6>Ralph Windows <span class="rating">5 <i class="icon ion-md-star"></i></span></h6>
-              <small>Andersen Windows & Doors | Founder & CEO</small>
-            </div>
-          </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur scelerisque, tortor nec mattis feugiat, velit purus euismod odio, quis vulputate velit urna sit amet enim. Maecenas vulputate auctor ligula sed sollicitudin.</p>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div class="testimonial-box">
-          <div class="row personal-info">
-            <div class="col-md-2 col-xs-2">
-              <div class="profile-picture review-one"></div>
-            </div>
-            <div class="col-md-10 col-xs-10">
-              <h6>Henry Velux <span class="rating">5 <i class="icon ion-md-star"></i></span></h6>
-              <small>VELUX Skylights | CFO, CEO, & OMG</small>
-            </div>
-          </div>
-          <p>In euismod, metus ac elementum tincidunt, dui eros ullamcorper lorem, at euismod augue augue quis leo. Fusce non dui augue. In hac habitasse platea dictumst. Mauris quis lacinia mauris. Proin ut pretium quam. Nam at ex finibus.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
-<!-- E N D  T E S T I M O N I A L S -->
 
 <!-- A D V E R T I S E R   L I S T -->
 <section id="ad-logo">
@@ -186,70 +110,12 @@ title: Home
     <div class="title-block">
       <h2>Magazine Ad Specifications</h2>
       <p style="text-align: justify !important;">If you are submitting print-ready art work it is important that it is setup correctly. All artwork <strong>MUST</strong> be submitted in the <strong>CMYK</strong> color format. No PMS spot colors or <strong>RGB</strong> colors can be accepted. The resolution <strong>MUST</strong> be 300 pixels per inch. Anything other than <strong>300</strong> pixels per inch, and in the <strong>CMYK</strong> color space will not print at an acceptable level of quality. Click the links below to get the detailed specifications for either a full page or a full-spread ad.</p>
-      <a href="{{ site.url }}/assets/Full-Page-Ad-Specs-DDH.pdf" class="btn btn-regular">Download Single Page Design Spec Sheet.</a><br />
+<p>
+      <a href="{{ site.url }}/assets/Full-Page-Ad-Specs-DDH.pdf" class="spec-button">Download Single Page Design Spec Sheet.</a><br /></p>
 
 
-      <a href="{{ site.url }}/assets/Full-Spread-Ad-Specs-DDH.pdf" class="btn btn-regular">Download Two Page Spread Design Spec Sheet.</a>
+      <a href="{{ site.url }}/assets/Full-Spread-Ad-Specs-DDH.pdf"  class="spec-button" >Download Two Page Spread Design Spec Sheet.</a>
     </div>
-    <!-- <div class="row">
-      <div class="col-md-4">
-        <div class="pricing-box">
-          <h3 class="demo">Demo Version</h3>
-          <h6>Free</h6>
-          <small>forever</small>
-          <p>Demo gives you full access to all features for 7 days</p>
-          <div class="divider-light"></div>
-          <ul>
-            <li><i class="icon ion-md-checkmark-circle-outline demo"></i>Marketing plan</li>
-            <li><i class="icon ion-md-checkmark-circle-outline demo"></i>Seo reporting tool</li>
-            <li><i class="icon ion-md-checkmark-circle-outline demo"></i>Keywords explorer</li>
-            <li><i class="icon ion-md-checkmark-circle-outline demo"></i>Competitive analysis</li>
-            <li><i class="icon ion-md-checkmark-circle-outline demo"></i>Five projects - <span class="demo">¡New!</span></li>
-          </ul>
-          <div class="text-center">
-            <a href="#" class="btn btn-demo">Demo version</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="pricing-box">
-          <h3>Standard Version</h3>
-          <h6>$9</h6>
-          <small>per month</small>
-          <p>Outrank your competitors with this amazing software</p>
-          <div class="divider-light"></div>
-          <ul>
-            <li><i class="icon ion-md-checkmark-circle-outline"></i>Marketing plan</li>
-            <li><i class="icon ion-md-checkmark-circle-outline"></i>Seo reporting tool</li>
-            <li><i class="icon ion-md-checkmark-circle-outline"></i>Keywords explorer</li>
-            <li><i class="icon ion-md-checkmark-circle-outline"></i>Competitive analysis</li>
-            <li><i class="icon ion-md-checkmark-circle-outline"></i>Unlimited projects - <span>¡New!</span></li>
-          </ul>
-          <div class="text-center">
-            <a href="#" class="btn btn-buy">Buy now</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="pricing-box">
-          <h3>Agency Version</h3>
-          <h6>$29</h6>
-          <small>per month</small>
-          <p>For agencies and businesses with extensive web presence</p>
-          <div class="divider-light"></div>
-          <ul>
-            <li><i class="icon ion-md-checkmark-circle-outline"></i>Marketing plan</li>
-            <li><i class="icon ion-md-checkmark-circle-outline"></i>Seo reporting tool</li>
-            <li><i class="icon ion-md-checkmark-circle-outline"></i>Keywords explorer</li>
-            <li><i class="icon ion-md-checkmark-circle-outline"></i>Competitive analysis</li>
-            <li><i class="icon ion-md-checkmark-circle-outline"></i>Unlimited projects - <span>¡New!</span></li>
-          </ul>
-          <div class="text-center">
-            <a href="#" class="btn btn-buy">Buy now</a>
-          </div>
-        </div>
-      </div>
-    </div>  -->
   </div>
 </section>
 <!-- E N D  P R I C I N G -->
