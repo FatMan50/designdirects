@@ -912,9 +912,15 @@ text-align: center;
 .archive-content {
         grid-area: archive-content;
     }
+.archive-content p {
+	font-size: 1.1em;
+}
+
 .archive-content h3 {
 	margin-bottom: 0px;
 	padding-top: 10px;
+	font-size: 1.9em;
+	letter-spacing: -1px;
 }
 
 .archive-sub {
