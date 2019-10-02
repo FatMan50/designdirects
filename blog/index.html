@@ -24,7 +24,7 @@ title: Archive
       <div class="archive-wrapper">
         <div class="archive-image">
           {% if post.image %}
-                <a href="{{ site.url }}{{ post.url }}"><img class="archive-image-responsive" src="{{ site.url }}/images/blog-images/{{ post.image }}" title="{{ post.title }}"></a>
+                <a href="{{ site.url }}{{ post.url }}"><img class="archive-image-responsive" src="{{ site.url }}/images/blog-images/{{ post.image }}" title="{{ post.title }}" alt="{{ post.title }}"></a>
                 {% endif %}
         </div>
         <div class="archive-content">
