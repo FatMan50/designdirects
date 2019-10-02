@@ -9,7 +9,7 @@ Direct from the nation’s most prominent residential designers and architects c
 
 <div class="blog-wrapper" style="margin-top: 30px;">
   <div class="blog-item-image">
-    <img src="{{ site.url }}/images/DDH51-Cover-Open-Floor-Plans.jpg" class="img-fluid" alt="Demo image">
+    <img src="{{ site.url }}/images/DDH51-Cover-Open-Floor-Plans.jpg" class="img-fluid" alt="Designer Dream Homes Magazine Cover">
   </div>
   <div class="blog-item-text">
   <h4>Designer Dream Homes</h4>
@@ -21,7 +21,7 @@ Direct from the nation’s most prominent residential designers and architects c
 
 <div class="blog-wrapper" style="margin-top: 40px;">
   <div class="blog-item-image">
-    <img src="{{ site.url }}/images/DDHP53-Cover.jpg" class="img-fluid" alt="Demo image">
+    <img src="{{ site.url }}/images/DDHP53-Cover.jpg" class="img-fluid" alt="Designer Dream Homes Presents Magazine Cover">
   </div>
   <div class="blog-item-text">
   <h4>Designer Dream Home Presents</h4>

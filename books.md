@@ -11,9 +11,9 @@ Going a step beyond offering an unmatched collection of home plans that elevate 
 <div class="marketing-item-images" style="margin-top: 30px;">
   <div class="marketing-images-wrapper">
       <div class="marketing-image-A">
-      <a href="https://saterdesign.com/collections/publications/products/ultimate-luxury-home-plans-collection" title="Dan Sater's Ultimate Luxury House plan Book"><img src="{{ site.url }}/images/C1-Saters-Ultimate-Luxury-Homes-book.jpg" class="img-fluid" alt="Demo image"></a></div>
+      <a href="https://saterdesign.com/collections/publications/products/ultimate-luxury-home-plans-collection" title="Dan Sater's Ultimate Luxury House plan Book"><img src="{{ site.url }}/images/C1-Saters-Ultimate-Luxury-Homes-book.jpg" class="img-fluid" alt="Dan Sater's Ultimate Luxury House plan Book"></a></div>
       <div class="marketing-image-C">
-      <a href="https://saterdesign.com/collections/publications/products/classic-mediterranean-home-plans" title="Dan Sater's Classic Mediterranean House Plan Book"><img src="{{ site.url }}/images/Classic-Mediterranean-Home-Plans.jpg" class="img-fluid" alt="Demo image"></a></div>
+      <a href="https://saterdesign.com/collections/publications/products/classic-mediterranean-home-plans" title="Dan Sater's Classic Mediterranean House Plan Book"><img src="{{ site.url }}/images/Classic-Mediterranean-Home-Plans.jpg" class="img-fluid" alt="Dan Sater's Classic Mediterranean House Plan Book"></a></div>
 
 
   </div>

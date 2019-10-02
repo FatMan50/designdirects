@@ -20,7 +20,7 @@ In **2005**, Sater Design Collection partnered with Donald A. Gardner architects
 </div>
 <div class="blog-wrapper" style="margin-top: 30px;">
   <div class="blog-item-image">
-    <img class="blog-image-responsive" src="{{ site.url }}/images/Dan-Sater-house-designer.jpg" alt="Dan Sater">
+    <img class="blog-image-responsive" src="{{ site.url }}/images/Dan-Sater-house-designer.jpg" alt="Dan Sater Award-Winning Home Designer">
     </div>
 
     <div class="blog-item-text">
