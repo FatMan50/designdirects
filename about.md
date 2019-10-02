@@ -28,3 +28,41 @@ In **2005**, Sater Design Collection partnered with Donald A. Gardner architects
     <p>With almost <strong>40</strong> years of experience, <a href="https://saterdesign.com">Dan Sater II</a> is a Certified Professional Building Designer, Certified Green Professional, an active member and past national president of the American Institute of Building Design (<strong>AIBD</strong>). In <strong>1984</strong> <a href="https://satergroup.com">The Sater Group</a> was established in an effort to combine quality designs with more <a href="https://saterdesign.com">affordable pre-drawn house plans</a>. In <strong>1998</strong> Dan published his first <a href="https://saterdesign.com/collections/publications">house plan book</a>. It was a great success and has been followed up by more than a dozen other books. The <a href="https://saterdesign.com">Sater Design Collection's website</a> has almost <strong>500 house plans</strong> available, many are <a href="https://saterdesign.com/collections/award-winning-house-plans">award-winning plans</a>.</p>
     </div>
 </div>
+
+
+<script type="application/ld+json">
+ { "@context": "https://schema.org",
+ "@type": "Organization",
+ "name": "Designs Direct Publishing, LLC",
+ "legalName" : "Designs Direct Publishing, LLC",
+ "url": "https://www.designsdirectpublishing.com",
+ "logo": "https://www.designsdirectpublishing.com/images/DDP-logo.png",
+ "foundingDate": "2005",
+ "founders": [
+ {
+ "@type": "Person",
+ "name": "Donald A. Gardner"
+ },
+ {
+ "@type": "Person",
+ "name": "Dan Sater"
+ } ],
+ "address": {
+ "@type": "PostalAddress",
+ "streetAddress": "86 Villa Road",
+ "addressLocality": "Greenville",
+ "addressRegion": "SC",
+ "postalCode": "29615",
+ "addressCountry": "USA"
+ },
+ "contactPoint": {
+ "@type": "ContactPoint",
+ "contactType": "customer support",
+ "telephone": "[+864-288-7580]",
+ "email": "ctripp@designsdirect.com"
+ },
+ "sameAs": [ 
+ "https://www.dongardner.com",
+ "https://saterdesign.com"
+ ]}
+</script>
