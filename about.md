@@ -20,12 +20,14 @@ In **2005**, Sater Design Collection partnered with Donald A. Gardner architects
 </div>
 <div class="blog-wrapper" style="margin-top: 30px;">
   <div class="blog-item-image">
+  <a href="https://saterdesign.com" rel="dofollow">
     <img class="blog-image-responsive" src="{{ site.url }}/images/Dan-Sater-house-designer.jpg" alt="Dan Sater Award-Winning Home Designer">
+    </a>
     </div>
 
     <div class="blog-item-text">
     <h4>Sater Design Collection, Inc.</h4>
-    <p>With almost <strong>40</strong> years of experience, <a href="https://saterdesign.com">Dan Sater II</a> is a Certified Professional Building Designer, Certified Green Professional, an active member and past national president of the American Institute of Building Design (<strong>AIBD</strong>). In <strong>1984</strong> <a href="https://satergroup.com">The Sater Group</a> was established in an effort to combine quality designs with more <a href="https://saterdesign.com">affordable pre-drawn house plans</a>. In <strong>1998</strong> Dan published his first <a href="https://saterdesign.com/collections/publications">house plan book</a>. It was a great success and has been followed up by more than a dozen other books. The <a href="https://saterdesign.com">Sater Design Collection's website</a> has almost <strong>500 house plans</strong> available, many are <a href="https://saterdesign.com/collections/award-winning-house-plans">award-winning plans</a>.</p>
+    <p>With almost <strong>40</strong> years of experience, <a href="https://saterdesign.com" rel="dofollow">Dan Sater II</a> is a Certified Professional Building Designer, Certified Green Professional, an active member and past national president of the American Institute of Building Design (<strong>AIBD</strong>). In <strong>1984</strong> <a href="https://satergroup.com">The Sater Group</a> was established in an effort to combine quality designs with more <a href="https://saterdesign.com">affordable pre-drawn house plans</a>. In <strong>1998</strong> Dan published his first <a href="https://saterdesign.com/collections/publications" rel="dofollow">house plan book</a>. It was a great success and has been followed up by more than a dozen other books. The <a href="https://saterdesign.com" rel="dofollow">Sater Design Collection's website</a> has almost <strong>500 house plans</strong> available, many are <a href="https://saterdesign.com/collections/award-winning-house-plans" rel="dofollow">award-winning plans</a>.</p>
     </div>
 </div>
 
